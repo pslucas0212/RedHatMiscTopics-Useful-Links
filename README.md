@@ -19,3 +19,6 @@
 - [Red Hat solutions for state and local government public safety](https://www.redhat.com/en/about/videos/red-hat-solutions-state-and-local-government-public-safety)
 - [Red Hat technologies for state and local public safety agencies](https://www.redhat.com/en/resources/state-local-government-public-safety-brief)
 - [Edge computing for smart cities and emergency management](https://www.redhat.com/rhdc/managed-files/ve-smart-cities-edge-brief-f27953wg-202104-en.pdf) 
+
+### Red Hat References Architecture
+- [Product Documentation for Reference Architectures Current release](https://access.redhat.com/documentation/en-us/reference_architectures/current) 
