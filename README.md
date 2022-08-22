@@ -22,3 +22,6 @@
 
 ### Red Hat References Architecture
 - [Product Documentation for Reference Architectures Current release](https://access.redhat.com/documentation/en-us/reference_architectures/current) 
+
+### Red Hat Business Resilience/Continuity
+- [Red Hat business resilience](https://www.redhat.com/en/about/here-to-help/business-continuity)
