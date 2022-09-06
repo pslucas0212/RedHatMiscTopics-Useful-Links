@@ -5,7 +5,7 @@
 
 
 ### Red Hat Terms and Agreements
-- [Appendix 1 = Global Englsh](https://www.redhat.com/licenses/Appendix_1_Global_English_20220719.pdf)
+- [Appendix 1 - Global Englsh](https://www.redhat.com/licenses/Appendix_1_Global_English_20220719.pdf)
 
 ### Red Hat Software Source Code
 - [Software Downloads](https://access.redhat.com/jbossnetwork/restricted/listSoftware.html)
