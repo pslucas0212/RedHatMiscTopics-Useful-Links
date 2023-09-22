@@ -2,7 +2,9 @@
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
-
+### Red Hat Accelerators
+- [What is the Red Hat Accelerators program and why might you want to join?](https://www.redhat.com/sysadmin/what-red-hat-accelerators)
+- [Red Hat Accelerators - Application and Overview Page](https://access.redhat.com/accelerators)
 
 ### Red Hat Terms and Agreements
 - [Red Hat Enterprise Agreements and Product Appendices](https://www.redhat.com/en/about/agreements)
